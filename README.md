@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 <p>
-I help businesses and teams turn complex data and unclear requirements into structured insights and actionable decisions** through business analysis, dashboards, and data storytelling.
+I help businesses and teams turn complex data and unclear requirements into structured insights and actionable decisions through business analysis, dashboards, and data storytelling.
 
 * 🔎 Business Analyst in transition with a background in **Digital Marketing & Data Analytics**
 * 📊 Learning **Power BI, SQL, and data storytelling**
